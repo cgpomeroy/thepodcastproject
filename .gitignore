@@ -2,4 +2,4 @@
 /client/node_modules/
 /client/config/keys.js
 /client/config/dev.js
-/.idea/
+/.idea/*
